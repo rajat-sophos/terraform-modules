@@ -5,7 +5,7 @@ terraform {
 resource "aws_acm_certificate" "cert" {
   domain_name               = var.domain_name
   validation_method         = var.validation_method
-  subject_alternatibject_alternative_names
+  subject_alternatibject_alternatikjwdbcukegbvubve_names
   tags                      = var.tags
   
   lifecycle {
