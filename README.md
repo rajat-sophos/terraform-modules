@@ -12,3 +12,5 @@ When I began developing these modules, my initial design direction was to pre-pa
 - EC2 instance
 - Security group
 - Directory integration
+- new test
+- final
